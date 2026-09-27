@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://ghstats.dev/api/langs?username=Pinwi999&layout=grid
+![Top Languages](https://ghstats.dev/api/langs?username=Pinwi999&layout=grid)
